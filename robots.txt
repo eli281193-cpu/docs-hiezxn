@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-71y78x.cnkitawin.online/sitemap.xml
